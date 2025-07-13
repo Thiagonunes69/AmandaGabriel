@@ -68,7 +68,7 @@ section{
     }
 @media (max-width: 414px) {
   .form_container {
-    max-width: 100%;
+    width: 310px;
     height: 682px;
   }
   .form_container h2 {
